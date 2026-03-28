@@ -1,0 +1,8 @@
+*.o
+build/
+build/*.o
+build/*.d
+*.d
+libavrmodbus.a
+examples/basic/*.elf
+examples/basic/*.hex
