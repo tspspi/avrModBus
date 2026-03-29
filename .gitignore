@@ -6,3 +6,4 @@ build/*.d
 libavrmodbus.a
 examples/basic/*.elf
 examples/basic/*.hex
+__pycache__
