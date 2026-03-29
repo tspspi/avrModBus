@@ -23,6 +23,8 @@ Key features are:
 The library avoids external dependencies beyond the `avr-gcc` toolchain and can be
 linked as `libavrmodbus.a` inside firmware.
 
+![](https://raw.githubusercontent.com/tspspi/avrModBus/master/docs/comic01.png)
+
 ## Repository layout
 
 ```
