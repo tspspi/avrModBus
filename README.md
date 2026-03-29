@@ -1,7 +1,8 @@
 # avrModBus - ModBus RTU slave toolkit for AVR
 
-> _Disclaimer_: This project has partially been coded in cooperation with
-> an AI assistant. All design decisions have been made by a human, all code
+> _Disclaimer_: This project has partially been 
+> [coded in cooperation with an AI assistant](https://www.tspi.at/2026/03/24/hardwareloop.html).
+> All design decisions have been made by a human, all code
 > has been manually reviewed.
 
 `avrModBus` is a small ANSI C library targeting `ATMega328P` and `ATMega2560`
